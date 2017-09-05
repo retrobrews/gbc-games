@@ -1,0 +1,170 @@
+Red Baaron Blue Samurai
+
+presents
+
+Final Blade
+
+By Aaron Pendley and Sam Gage
+
+ 
+
+toadkick@yahoo.com
+
+ 
+
+Instructions
+
+ 
+
+Table of Contents:
+
+ 
+
+Controls
+The Game Screen
+
+Switches and Doors
+
+Weapons
+
+Power-ups
+
+ 
+
+Controls:
+
+ 
+
+other controls:
+
+ß + A : fall to lower level
+
+ 
+
+The Game Screen:
+
+ 
+
+Switches and Blocks:
+
+Throughout the game, you will encounter blocks that will obstruct your path.  In order to pass these blocks, you must first find the switch to change the block and press it.  There are two types of switches, and two types of blocks:
+
+ 
+
+vertical switch & block
+
+ 
+
+horizontal switch & block
+
+ 
+
+Weapons:
+
+ 
+
+During the game, you have two types of weapons available to you:
+
+ 
+
+Sword:
+
+There are 3 basic sword moves you can do:
+
+Þ + B : swing forward
+
+ß + B : swing down
+
+Ý + B : swing up
+
+ 
+
+These moves come with each new sword:
+
+Ü + B : swing backward
+
+A + B : jump slash
+
+Þ + A + B : forward dash
+
+ 
+
+Sword Combos:
+
+ 
+
+Along with basic sword moves, you also have the ability to link moves together to form rapid attacks.  To link sword moves, start with any basic move.  While swinging, continue holding B and move the D-Pad in the direction for the next swing.  As long as you are holding B, and as long as you keep entering sword moves, your character will continue to attack.  To stop an attack in progress, simply release B.  All sword moves can be combined to form attacks, but there are a few Special Combos that when entered, will increase your character’s speed and attack strength until the end of the attack.  You will know you have entered a Special Combo when a brief flash of energy surrounds your character.  One of these Special Combos is performed as follows:
+
+ 
+
+Press Þ + B, continue holding B, press Ý and then ß.
+
+ 
+
+It is up to you to figure out the remaining Special Combos.
+
+ 
+
+Fireball:
+
+Along with your sword, you also have a fireball available to you.  To use your fireball, simply press B by itself.  To charge your fireball and increases it’s attack, press and hold B until charged, and release to throw a bigger fireball.  Note that charging a fireball drains your power meter, so use this option wisely.
+
+ 
+
+ 
+
+ 
+
+Power-Ups
+
+ 
+
+There are several power-ups located throughout the game to help you on your quest.  They are as follows:
+
+ 
+
+Wings:
+
+This power-up will allow you to fly for a short period of time.  While flying, press B to use your fireball, and press Ý + A, Ü + A, or Þ + A to do a flying dash. You may also use ß + A to move to a lower floor level on some areas.
+
+ 
+
+Shoes:
+
+This power-up will allow you to run faster and to leap off of vertical walls for a short time.  To leap off of a wall, simple press A when facing a wall, and your character will change direction and jump again.  This is particularly useful to scale walls that are close together by leaping back and forth off of them.
+
+ 
+
+Shadow:
+
+This power-up will make you invisible for a short time, allowing you sneak past certain enemies and attack them without being noticed.
+
+ 
+
+Shield:
+
+This power-up will make you indestructible for a short time.  Note that it does not protect you from falling off of the screen.
+
+ 
+
+Heart:
+
+This power-up will increase your life energy by a small amount.
+
+ 
+
+Extra Life:
+
+This power-up will increase your reserve life energy.
+
+ 
+
+Sword Piece:
+
+When certain enemies are destroyed, they will leave behind sword pieces.
+
+Collect these to earn new swords with increased speed, and new sword moves.
+
+ 
+
+Note: power-ups are reset when their effects wear off

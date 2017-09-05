@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+Game			: Drunken Pooper
+-------------------------------------------------------------------------------
+Author                  : Matt Ripston
+Email Address           : mripston@aol.com
+Completion time         : 2 weeks
+Tools used              : GBDK, GBTD, GBMB, HiColour Util
+-------------------------------------------------------------------------------
+Controls
+-------------------------------------------------------------------------------
+Left, Right		: Move the Character back and forth
+A			: Poops
+Start			: Pauses
+-------------------------------------------------------------------------------
+Story
+-------------------------------------------------------------------------------
+	After one drunk night I woke up to find a surprise on the shower floor.
+My roomate was of course passed out in his bed.  I knew I didn't do it, so it 
+had to be him.  When he finally woke up, he had no memory of the incident.  
+Only after realizing in his drunken state that he forgot to wipe, did he come
+clean.  
+	So as penance I started making this game to piss him off.  And cause it
+was easy enough for me to program.  It actually turned into a half way fun 
+game.  And there's a funny secret
+Have fun
+-------------------------------------------------------------------------------
+Copyright 
+-------------------------------------------------------------------------------
+You may distribute this game(pooper.gb), provided you include this text file
+(drunken_pooper.txt). This game MAY NOT be distributed commercially.
+-------------------------------------------------------------------------------

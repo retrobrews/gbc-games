@@ -1,0 +1,3 @@
+Jumpman '86 
+Jumpman 86 is a platform game that features thirty unique levels where the player must defuse all of the bombs on screen by running into them.
+by Par Johannesson

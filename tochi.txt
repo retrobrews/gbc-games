@@ -1,0 +1,11 @@
+Tochi
+Gameboy Color / 2000
+Written in Z80 assembly language for a Gameboy Color homebrew competition, Tochi is a puzzle game in the vein of Sonic Team's Chu Chu Rocket.
+Different colored Tochis must be directed to their appropriate home by placing arrows in their path.
+
+One of Ben Hopkins' first full games, Tochi also lead to his first job in the games industry working on Gameboy Color and Gameboy Advance projects.
+
+Recently rediscovered on an old hard drive, Tochi is now availible here for free download.
+
+author: Ben Hopkins
+http://kode80.com/games/

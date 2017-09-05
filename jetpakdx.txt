@@ -1,0 +1,120 @@
+                         -=Jet Pak DX=- (aka GB JetPac)
+                     http://datapotato.simplenet.com/gbdev/
+
+This is my first Gameboy game release. It works on all gameboy emulators, and even
+the real thing. It will run in B/W as well as colour, but I suggest colour for the
+full experience.
+
+comments and stuff to : quang@stones.com
+
+Game Plot
+Lost, stranded on a strange planet. Light years away from home. You scramble your way
+home, planet hopping. Burning the fuel you collect in the spaceships you build, just
+to get that bit closer to home.
+
+
+Contact details.
+
+Mr Quang Vinh Nguyen
+62 New Court
+Cowley
+Uxbridge
+Middlesex
+UB8 2LW
+England.
+
+Tel    : (+44) 1895 237 317
+Mobile : (+44) 7775 785 717
+email  : quang@stones.com
+
+
+Version History
+1.00  - It's been like ages since I've done an update. But that's because I was
+        wanting to finish it before I released it.
+        Well it's now finished. maybe not to the degree I'd of liked bvut it's pretty
+        close. The reason for this, is so I could enter it into the BUNG Gameboy game
+        programming competition. Which hopefully, I have a chance of winning with this
+        game.
+        What can I say that's changed, I've forgotten where I've left it last.
+        There's now all the levels, 16 of them. There's 8 different baddies, and 4
+        types of Spaceship to build.
+        The majority of the graphics have been redrawn by my brother. Viet Nguyen.
+        With those new graphics I've also got a title screen.
+        There's now music and sound fx, utilisiung the great Gameboy sound engine, GHX.
+        Thanks to Manfred Linzner of www.shinen.com for donating the music/sfx and
+        player routines.
+	    I've changed the control method back to the classic spectrum version. Although
+        you can change that back in the option screen.
+        There's a bunch of other spot effects added. Just play through the game and see.
+		
+0.08  - Complete re-write of the code. I'm a lot happier with it now. Makes a lot
+        more sense. Instead of it being a bunch of little hacks to get things to
+        work.
+        Added a nice little randomised starry background.
+        As you fule the ship, a fuel bar at the top fills up. This is for all you
+         people playing in black and white.
+        You can now finally get into the fuelled ship and take off to the next level.
+		there are little bonus items around that will increase your score.
+		Added 2 new levels, with 2 new baddies, with 2 new attack patterns.
+        The demo now ends after the 3rd level.
+        I hope you have fun against the killer fuzzy things, and mad moving murdering
+         bubbles.
+        this will be the last beta, before the final release. As it's practically
+        finished. A bunch more levels, some sound, and the flashy bits.
+        GameboyLamers1999 mission one finished. Welcome to bonus stage.
+        All comments to quang@mindless.com
+
+0.07  - Fixed sprite bug with lasers, I did a copy/paste mistake with the code, and
+        forgot to change the sprite values for the second laser.
+        Added hover function, to the UP joypad position. After all these years of
+        playing Jet Pac on Spectrum, I never knew there was a hover button. Thanks
+        to Man Beast for pointing that out to me.
+        Beta v0.07 Cancelled.
+        After taking a week or so out from Jet Pak DX to study the Gameboys sound
+        chip, I got back to my code, and realised it was a complete mess.
+        So I scrapped the code and went on to the next beta from scratch.
+
+0.06  - A day after v0.05 was released I got a small email from someone informing me
+        that someone else had gone to the trouble of hacking my game, to produce a
+        patch to get rid of the BETA v0.05 text from the centre of the screen. Now
+        what I don't understand is, why the hell they even bothered. The fact of the
+        matter is, the game isn't finished, and that's why the BETA text is there.
+        Obviously, when the game is finish I'll remove it. Here I am writing a FREE
+        Gameboy Colour game for you lot to play, and someone goes and rapes my code.
+        I'm reluctant to release this update, but here it is.
+        You can now pick up the Spaceship pieces and assemble the craft, and also
+        I added the bits of fuel for you to collect, to fuel up the ship.
+        After fueling the ship up (turning it purple) I've yet to finish the code off
+        for you to get into it and fly away to the next level.
+
+0.05s - After some great feedback I got via email and IRC, I've changed a few things
+        around in version 0.05, most importantly I've slowed the game down, as it
+        seems alot of you think it's too fast. I don't but maybe that's because I
+        play test it so much as I'm coding it. Also I've added a pause function, and
+        the controls at the beginning on the splash screen.
+0.05  - Big day today, added COLOUR!. Also redrew all the sprites, and rewrote all
+        the source code. Hopefully things are a lot more neater now, but still
+        not as great as I would like them to be.
+        Added lives, so you can now die. HiScore, a core ingredient of the old ways.
+        I put the three Spaceship parts in, and I know you can't do anything with
+        them yet, but they're there just to see how things will come together.
+        After seeing the response FoulOne got with his GB Lander Homepage, I've
+        knocked one up with all the previous betas available with screenshots. And
+        even the 'not so great' source code for the first Beta.
+        http://datapotato.simplenet.com/gbdev/
+	   
+0.04  - Added very scruffy code for baddies, baddies detection, killing baddies,
+        baddies killing man. I really gotta clean it up later.
+        Simple animation for popped man, and dusted baddie.
+        Added a quick 'Press Start' splash screen.
+	   
+0.03  - Rearranged code, started modularistion, and changed gravity routine
+        Fixed walking of ledges and still walking while falling bug
+        Added laser fire, with collision detection between lasers and platforms
+
+0.02  - Redid all the graphics, making them smaller, so the play area is larger
+        Put the tree platforms in and a floor, and did simple collision detection
+        for man and platforms
+
+0.01  - Ripped the graphics directly from the Spectrum version for the little space
+        man. Had him floating about

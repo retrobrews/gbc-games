@@ -1,0 +1,95 @@
+Y2kode millenium's coders competition (2001) 
+
+FX Shooter G : MiniRPG2 story for GameBoyColor 
+
+Program : Change-V
+Graphic : Jaws-V
+Music : Change-V
+
+e-mail : changev@aol.com
+homepage : http://members.aol.com/changev/index.htm
+
+--------------------------------------------------------------------------------
+
+Quick description
+
+It is a conversion of QBasic version of FX Shooter2: MiniRPG2 story.
+storyline is almost same as MiniRPG2(which is also a very old simple RPG game 
+for QBasic, also made by me,Change-V)
+4 stages with horizontal scrolling background(originally 6 stages, but I didn't 
+have time to add all). I will add 2 stages later.
+each stages has end boss.
+you can shoot 2 bullets at a time. 
+3 steps of power up(for each power ups, you will shoot little bit bigger 
+bullet). 
+Hp and power will reset when you advance to next stage.
+HP system, so one hit will not kill you.
+graphics are 100% original(made by my brother Jaws-V)
+music is from Wonderbeat S anime(I made BGM with what i remembered. 
+I changed here and there, so BGM can be looped)
+I didn't have much time, so the source code became spaghetti code.
+
+--< Instruction >--
+  press [A] or [START] button to start game
+
+  Cursor keys :  move ship
+  [A] : not used
+  [B] : fire
+  
+  [START] : not used
+  [SELECT] : not used
+
+  Note. there is NO pause feature in this game(I didn't have time to add one)
+
+--------------------------------------------------------------------------------
+
+last miniute update
+  
+ shortened the length of stage 4
+ weaken the enemies(easier gameplay)
+ now little ninja's shuriken can hit you(I was so busy, I forgot)
+
+--------------------------------------------------------------------------------
+
+History
+
+ Project started : Oct/2000(graphic) 
+ Planning started : Nov/2000
+ wasted time on N64 game for a month : Dec/2000
+ Tested real game engine : Jan/2001(using lots of MBC1 modules) 
+ finished : Feb/27/2001 (yikes! deadline!!!)
+
+--------------------------------------------------------------------------------
+
+Tool used
+ 
+ FotoTouchColor(photo editor)
+ PSP 3.11(shareware)
+ DPixed 2.09(freeware)
+ ACDSee classic 2.43(shareware)
+ GBTD(Game Boy Tile Designer 2.2)
+ GBMB(Game Boy Map Builder 1.8)
+ GBDS IDE(Game Boy Development Studio 0.63)
+ and of course...
+ GBDK compiler ver 2-1-5 
+
+--------------------------------------------------------------------------------
+
+Emulator used for testing game
+
+ No$GMB-DOS 2.5 (shareware) - can't play long, because it is shareware
+ REW ver.12stx - background property problem(window can't hide sprites)
+ Virtual GameBoyColor(full version) - no joypad support + BG property problem
+
+--------------------------------------------------------------------------------
+
+Device used for testing game
+
+ GameBoyColor(purple color) with worm-lite
+ Official Nintendo GameBoyColor AC Adaptor
+ DoctorGB Exchanger(Flashlinker)
+ Mr Flash 64M(flashcart)
+ extra printer cable 
+ dual printer port switch box 
+
+--------------------------------------------------------------------------------

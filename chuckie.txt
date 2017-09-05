@@ -1,0 +1,39 @@
+Chuckie DX Version 0.33 (beta)
+------------------------------
+
+The first official release of this classic remake for the Gameboy.
+
+Tools used
+----------
+Coded using GBCE for Windows and Compiled with GBDK for DOS/Windows.
+Tiles designed in GBTD, GBMB, and optimised with with GB Quantitising Tool, and GameMan.
+Thanks to all respective authors, for such great tools.
+
+Known Problems
+--------------
+As this is a beta, and because I needed a release candidate for the Y2KODE
+competition, there are several known bugs and issues with this version of the ROM.
+  1) Jumping from platforms to ladders only works 99% of the time - The player
+     sometimes fails to 'catch' hold of the ladder - Didn't get time to find this one!
+  2) Colision detection is not perfect - this will be improved in the next release.
+  3) Intermediate screens / End game graphics incomplete - These sequences, in my
+     opinion are shabby. The next release will improve on the gfx and effects.
+  4) Sound. I've added some sounds, but they are lousy. I only had an hour to add
+     some before the deadline - I suggest that you turn down the sound on your GB ;-)
+  5) Options and Score Table incomplete - There were bugs in the routines, so I didn't
+     include these in this release.
+  6) Speed. The game is designed to run at the same speed no matter what is happening
+     on screen (1 duck or 8 ducks and chuckie - the speeds is constant).
+     Optimisation of some routines *will* give a speed boost. Again, look for this in
+     a forthcoming release.
+
+  The above I know about - other stuff? Please let me know!
+  Report bugs, errors, suggestions to
+  imperfection@btinternet.com
+
+Contact
+-------
+If you have a comment to make about this ROM, or suggestions or questions about my
+next GB remake, then please contact me personally at retro.remakes@btinternet.com
+If you want to report a bug in this ROM, then contact me at
+imperfection@btinternet.com

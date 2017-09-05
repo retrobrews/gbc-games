@@ -1,0 +1,89 @@
+Skoardy v1.0
+Copyright 1999 Darren Hebden.
+
+----------------------------------------------------------------------
+'Skoardy' is my entry in Bung's 2nd Amateur Gameboy(tm) Format Games
+Coding Competition. 
+----------------------------------------------------------------------
+
+NB. 'Skoardy' only runs on a Gameboy Color(tm). It will not work on
+the plain Gameboy(tm) or Gameboy Pocket(tm).
+
+Plot.
+-----
+
+SHORT VERSION : Guide the red dot around the maze to the exit. You 
+can't stop, only turn. Too slow and you crash which loses a life. 
+You have 3 lives to finish all 10 levels. Oh yes, collect the pots too.
+
+LONG VERSION : You know you shouldn't have answered the newspaper ad.
+"Athletic subject required to test a new kind of skateboard". New kind
+of skateboard?! Yeah, nuclear powered! And now it's gone wrong, with
+you on it! It won't stop and if you crash, it explodes! Your only 
+chance to escape this nightmare is to reach the 'safety zone' but that
+is ten test-zones away! 
+
+Lead our hapless hero to the exit on each zone without hitting a wall
+and you'll be one step closer to freedom. Oh yes, one thing though. 
+The scientists have asked if you could collect some sample pots left 
+around the zone. If you don't they won't let you out the exit so your
+life is on the line here.
+
+
+Options.
+--------
+
+Skoardy has a number of options to make your life easier (or harder).
+
+First option is Speed. This affects how fast you travel. The default 
+setting is '2' so if you're finding things a little difficult, you've
+got an easier setting to try. However, if your reactions are super-fast,
+you might be tempted to try a higher level. 
+
+The second option is for the Pots. Here you can remove the need to 
+collect pots altogether by setting it to 'OFF'. It defaults to 'ON'
+but there is also another setting which might help it things are too
+hard. The 'STAY' setting means that you still need to collect all 
+the pots but if you lose a life, the pots you've already collected
+will no re-appear. 
+
+Lastly, Level specifies which level you will start on for a new game.
+If you want a little boost or simply want to skip the earlier levels,
+this option will let you pick your starting level right up to '5'.
+
+
+Controls.
+---------
+The buttons don't do anything during the game and are really only used
+to skip some of the various screens. The direction that you travel in
+is controlled by the D-Pad. You cannot pause mid-game, that'd make 
+things too easy if you could take a breather. :)
+
+Once a level has begun and the 'Go!' image has vanished, you can study
+the level. Get a feel for where you're heading. You won't move until
+you press one of the directions and once you're moving, you cannot stop.
+
+
+Other Stuff.
+------------
+This is my first Gameboy(tm) project. It's been a learning experience
+and I'm still going. Sorry about the lack of sound/music.
+
+'Skoardy' was written in C using GBDK from Michael Hope.
+
+The graphics were created with Photoshop on the PC and converted 
+using the PCX2GB - the 'Advanced PCX to Gameboy Converter v2.14'
+by MegaMan_X. 
+
+All design, coding and graphics were done by me. The GB_Dev mailing
+list was an invaluable lurking spot. Don't ask too many questions,
+they bite ;)
+
+If you have any comments or questions, please contact me at...
+dsh@skoardy.demon.co.uk
+
+
+
+----------------------------------------------------------------------
+Gameboy(tm), Gameboy Pocket(tm) and Gameboy Color(tm) are registered
+trademarks of the Nintendo Corporation.

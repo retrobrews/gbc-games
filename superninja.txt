@@ -1,0 +1,33 @@
+
+Super Ninja - a TornPocket Production (early work in progress).
+---------------------------------------------------------------
+
+Possibly one of the only games with Ninja in the title that doesn't
+actually feature any Ninjas - yet :)
+
+
+Keys:
+A - Jump
+B - Speed Up
+Up/Down - Ladders
+Left/Right - Walk
+
+
+Please be aware that this demo was knocked together in a very short time,
+and as such is missing lots of elements that will later be added:
+
+For example, the collapsing ceiling effect on the title screen will feature in
+levels yet to be added, not to mention a cool parallax train level, and several
+more things eg. slopes, inertia, proper collision, more sound, etc...
+
+What you have here then is 1 level alpha demo - enjoy.
+
+Any questions, contact:
+
+	john@tornpocket.com	(coding)
+	 lee@tornpocket.com	(graphics/levels)
+
+For further updates, keep checking www.tornpocket.com
+
+Best of luck to everyone in the contest !
+

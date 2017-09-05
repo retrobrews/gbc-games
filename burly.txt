@@ -1,0 +1,12 @@
+Gameboy Color development - Burly Bear vs. The Mean Foxes (GBC version)
+Last updated on February 15, 2012, 20:24 by Sebastian Mihai
+I remembered that Gameboy Color and the original Gameboy were very similar from a hardware point of view, and I began investigating how hard it would be to port Burly Bear vs. the Mean Foxes to the Gameboy Color. It was not amazingly difficult, and it made the game look much better. For more information on the dev kit, notes, etc., see the page on the Gameboy version of the game. Here's a list of what I had to change to get the Gameboy Color port going: 
+
+- added palette information whenever sprite attributes are set 
+- create palettes for background tiles (grass, trees, stones), and for sprites 
+- modify cookie tile (was using color 0, which was transparent) 
+- added a flag to each fox, which determines what fox palette will be used. It is generated randomly when a fox spawns. Because of it, foxes can have different colours 
+- modify background tile rendering to also write palette information
+
+http://sebastianmihai.com/main.php?t=55
+Sebastian Mihai

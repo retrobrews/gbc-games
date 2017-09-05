@@ -1,0 +1,5 @@
+Homebrew by Enrique Sánchez Rosa - Game Boy Color
+
+Friki Race is a contribution by Enrique Sánchez Rosa to Bung’s 2nd Amateur GB Game Coding Competition, in September 1999. 
+It is a pretty simple car racing game, in which you must reach the goal in time through 3 different stages. 
+Also you have to overtake as many rivals as possible to become the first in the ranking.

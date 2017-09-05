@@ -1,0 +1,11 @@
+Brickster for Game Boy Color
+1st January 26, 2012 by rv6502
+
+I made this little game in 1999 as a first step into Game Boy Color programming.
+This homebrew game was released for free (as in beer) at a competition organized by Bung (a flash cartridge maker) who wanted to demonstrate the purpose of their products 
+to indie game developers.
+The game is free to download, copy, distribute and play in its unmodified form.
+You may include the ROM as part of any software packages and/or devices (including commercially sold ones) as long as the source is not misrepresented.
+
+https://rv6502.ca/post/2012/01/26/brickster-for-game-boy-color/
+Stéphane Hockenhull
