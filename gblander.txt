@@ -1,0 +1,8 @@
+GBLander V0.02
+by Jason Heggie
+1999/04/15
+
+GBLander is a hybrid/variant of the so called gravity games like Oids, Gravitar and Thrust.
+
+
+http://www.subport.org/gbc/main/demo.htm

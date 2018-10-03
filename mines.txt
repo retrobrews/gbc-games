@@ -1,0 +1,92 @@
+//=======================================================\\
+|| GB-Mines  -- 32K of gaming goodness!             V1.0 ||
+\\=======================================================//
+
+Introduction:
+-----------------------------------------------------------
+
+	GB-Mines is a simple minesweeper clone.  It operates 
+in much the same way as the popular windows game.  The 
+object of the game is to clear every square on the board 
+except for the mines.  The number of mines of the board 
+depends on the difficulty level you select.
+
+Difficulty levels:
+-----------------------------------------------------------
+
+	GB-Mines has 4 different difficulty levels.  You 
+select the difficulty level before each game.  Use the left 
+and right direction buttons to choose the difficulty level, 
+and the A button to make your selection.  The difficulty 
+levels are as follows:
+
+Easy:	15 Mines
+Med:	30 Mines
+Hard:	45 Mines
+Dead: 101 Mines (nearly impossible)
+
+Screen layout:
+-----------------------------------------------------------
+
+	The screen has two basic parts: the status bar, on 
+the top, and the playing field on the bottom.  From left to 
+right on the status bar is a counter of total mines minus 
+the number of flags you have down, a face, and a clock.  
+The face will turn to a smiley with sunglasses when you 
+win, and a "dead" face when you lose.  The playing field is 
+where all the action occurs.
+
+Controls:
+-----------------------------------------------------------
+
+Direction pad: Moves the cursor around the playing field
+
+A: Clears a square.  If the square you try to clear is a 
+mine, you lose.  Otherwise, a number will appear displaying 
+how many mines are in the surrounding squares.  If there 
+are no mines in the surrounding squares, they will be 
+automatically cleared.
+
+B: Cycles the square through being unmarked, being flagged, 
+and having a question mark.  You cannot clear a flagged 
+square, though you may un-flag it, and then clear it.
+
+A+B: Quick clear.  If you have marked all of the mines 
+around a numbered square, this will clear all of the 
+surrounding, unmarked squares.
+
+Cheat Codes:
+-----------------------------------------------------------
+
+	You just had to know, didn't you?  There is *one* 
+cheat code in GB-Mines, but it is up to you to find it.  
+There are also several gameshark/gamegenie codes.  
+Experiment, and you may be able to find one.
+
+Credits:
+-----------------------------------------------------------
+Programming:	Aaron St.John
+Art:			Aaron St.John
+Original Program: Robert Donner and Curt Johnson 
+
+Thanks to:
+-----------------------------------------------------------
+
+-Everyone on #gbdev (Efnet) and on the GB development 
+mailing list for answering my stupid newby questions
+
+-Pan/k00pa for telling me everything I always wanted to 
+know about the Gambeboy
+
+-Martin Korth for no$gmb
+
+-Icehawk and Groove, for their GBDK samples
+
+-Pascal Felber's for GBDK
+
+-Harry Mulder for GBTD and GBMB
+
+-----------------------------------------------------------
+
+The GB-Mines program and source code is Copyright 
+St.John, 1998.
