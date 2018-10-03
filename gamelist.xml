@@ -91,7 +91,7 @@
           <image>./columnsdx.png</image>
           <rating>0</rating>
           <releasedate>20000509T000000</releasedate>
-          <developer>HOMEBREW ROM</developer>
+          <developer>Samuel Blanchard</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>Columns DX</genre>
           <players>1</players>
@@ -156,6 +156,18 @@
           <genre>GBamaTron</genre>
           <players>1</players>
       </game>
+      <game>
+          <path>./gblander.gb</path>
+          <name>GBLander</name>
+          <desc>GBLander is a hybrid/variant of the so called gravity games like Oids, Gravitar and Thrust.</desc>
+          <image>./gblander.png</image>
+          <rating>0</rating>
+          <releasedate>19990415T000000</releasedate>
+          <developer>Jason Heggie</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>GBLander</genre>
+          <players>1</players>
+        </game>
         <game>
           <path>./geometrix.gbc</path>
           <name>Geometrix</name>
@@ -274,6 +286,18 @@
           <developer>Henik Jansson, Mikael Backlund</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>Mean Mr. Mustard</genre>
+          <players>1</players>
+      </game>
+      <game>
+          <path>./mines.gb</path>
+          <name>Mines</name>
+          <desc>GB-Mines is a simple minesweeper clone. It operates in much the same way as the popular windows game. The object of the game is to clear every square on the board except for the mines. The number of mines of the board depends on the difficulty level you select.</desc>
+          <image>./mines.png</image>
+          <rating>0</rating>
+          <releasedate>19981001T000000</releasedate>
+          <developer>Aaron St.John</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Mines</genre>
           <players>1</players>
       </game>
       <game>
