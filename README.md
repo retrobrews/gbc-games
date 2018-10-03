@@ -14,6 +14,7 @@ Homebrew GBC games:
  - Friki Race<br />
  - FX Shooter G: MiniRPG2 Story<br />
  - GBamaTron<br />
+ - GBLander<br />
  - Geometrix<br />
  - Horrible Demon III<br />
  - I Shall Be Queen<br />
@@ -24,6 +25,7 @@ Homebrew GBC games:
  - Klondike<br />
  - Manic Miner<br />
  - Mean Mr. Mustard<br />
+ - Mines<br />
  - Perplex DX<br />
  - Present Panic<br />
  - Skoardy<br />
@@ -34,4 +36,4 @@ Homebrew GBC games:
  - Tom Atom<br />
  - Ultima III<br />
 
-*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please let me know immi on retrobrewsATgmail.com. Thanks!
+*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please let me know immi on email. Thanks!
