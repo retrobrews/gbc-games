@@ -3,7 +3,7 @@
         <game>
           <path>./alienplanet.gb</path>
           <name>Alien Planet</name>
-          <desc>Alien Planet is a vertical shoot&apos;em-up. You control the player ship with the directional controls and use button B to shoot. Start Button pauses the game.\nThe goal of the game is to score points. If you get hit you lose your ship. You have 3 additional ships, lose them all and it&apos;s Game Over.\nSome enemies and power-stations will emit Power-containers. Catch them to raise the power of your bullets. Your bullets have 5 different levels of power. Each next level is reached after collecting 100 P-points. Your power decreases every few shots. Your power also decreases when you lose a ship.</desc>
+          <desc>Alien Planet is a vertical shoot&apos;em-up. You control the player ship with the directional controls and use button B to shoot. Start Button pauses the game.. The goal of the game is to score points. If you get hit you lose your ship. You have 3 additional ships, lose them all and it&apos;s Game Over.. Some enemies and power-stations will emit Power-containers. Catch them to raise the power of your bullets. Your bullets have 5 different levels of power. Each next level is reached after collecting 100 P-points. Your power decreases every few shots. Your power also decreases when you lose a ship.</desc>
           <image>./alienplanet.png</image>
           <rating>0</rating>
           <releasedate>20010925T000000</releasedate>
@@ -39,7 +39,7 @@
         <game>
           <path>./brickster.gbc</path>
           <name>Brickster</name>
-          <desc> </desc>
+          <desc>Arkanoid type of game for gameboy color.</desc>
           <image>./brickster.png</image>
           <rating>0</rating>
           <releasedate>19990929T000000</releasedate>
@@ -147,7 +147,7 @@
         <game>
           <path>./gbamatron.gb</path>
           <name>GBamaTron</name>
-          <desc>You are Doctor Burkanovich, whose laboratory biorobots have mutated, gone crazy and they kill now. But not everything is lost. Thanks to the rechargable blaster, there is a chance for escape. Use it for annihilating the robots and keep away from the electrical walls. And watch out for Sonia and Doti. Good Luck!\nDuring the game use the D-Pad for moving, A-Button to lock your firing direction, B-Button to forbid firing in left and right and Start for pause. The shooting is automatic.</desc>
+          <desc>You are Doctor Burkanovich, whose laboratory biorobots have mutated, gone crazy and they kill now. But not everything is lost. Thanks to the rechargable blaster, there is a chance for escape. Use it for annihilating the robots and keep away from the electrical walls. And watch out for Sonia and Doti. Good Luck!. During the game use the D-Pad for moving, A-Button to lock your firing direction, B-Button to forbid firing in left and right and Start for pause. The shooting is automatic.</desc>
           <image>./gbamatron.png</image>
           <rating>0</rating>
           <releasedate>20060402T000000</releasedate>
@@ -255,7 +255,7 @@
         <game>
           <path>./klondike.gbc</path>
           <name>Klondike</name>
-          <desc>Card game.\nD-pad: controls mouse pointer; A: Action button, select a card (dot shows which card is active) then move pointer to another card and press &apos;A&apos; again to place the active card if the move is legal; B: Moves the card under the pointer to the goal piles if the move is legal; START: Pauses the game, and allows the player to change the game style (whether to draw 1 or 3 cards) SELECT+DOWN: Redeals the cards.</desc>
+          <desc>Card game.. D-pad: controls mouse pointer; A: Action button, select a card (dot shows which card is active) then move pointer to another card and press &apos;A&apos; again to place the active card if the move is legal; B: Moves the card under the pointer to the goal piles if the move is legal; START: Pauses the game, and allows the player to change the game style (whether to draw 1 or 3 cards) SELECT+DOWN: Redeals the cards.</desc>
           <image>./klondike.png</image>
           <rating>0</rating>
           <releasedate>20010325T000000</releasedate>
@@ -395,11 +395,23 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>Tom Atom</genre>
           <players>1</players>
-      </game>   
+      </game>
+       <game>
+          <path>./ucity.gbc</path>
+          <name>uCity</name>
+          <desc>This is uCity (pronounced &apos;micro-city&apos;), the open-source city-building game for Game Boy Color.</desc>
+          <image>./ucity.png</image>
+          <rating>0</rating>
+          <releasedate>20180131T000000</releasedate>
+          <developer>AntonioND/SkyLyrac (Antonio Nino Diaz)</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>uCity</genre>
+          <players>1</players>
+      </game>        
        <game>
           <path>./ultima3.gb</path>
           <name>Ultima III</name>
-          <desc>Ultima 3 for Gameboy Color.\nPress the A button to bring up the menu and to make selections\nPress the B button to pass or to cancel out of menus\nPress the D-Pad to move around</desc>
+          <desc>Ultima 3 for Gameboy Color.. Press the A button to bring up the menu and to make selections. Press the B button to pass or to cancel out of menus. Press the D-Pad to move around</desc>
           <image>./ultima3.png</image>
           <rating>0</rating>
           <releasedate>20010419T000000</releasedate>
