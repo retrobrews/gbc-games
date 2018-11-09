@@ -1,4 +1,0 @@
-Columns DX
-Beat computer by destorying falling gems. You need to have 3 or more in column or row to destory them.
-created: 2000/05/09
-unknown developer
