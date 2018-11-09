@@ -1,4 +1,0 @@
-Jumpik Game
-Small Blue Cube
-Avoid the toxic pools and collect the coins in this platformer game inspired by all the old classics.
-Added 2009/07/31
