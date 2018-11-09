@@ -1,4 +1,0 @@
-Mean Mr. Mustard
-
-The game that combines the telephone game with simple drawing.
-authors: Henik Jansson, Mikael Backlund in 2000
