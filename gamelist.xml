@@ -48,6 +48,18 @@
           <genre>Geometrix</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./initiald.gbc</path>
+          <name>InitialD</name>
+          <desc>Takumi has to deliver Ramen! Take it from the restaurant and deliver it to the customers before times runs out! Beware of cyclists!  Controls: Move: D-pad; Pick and leave Ramen: A; Change Song: Select</desc>
+          <image>./initiald.png</image>
+          <rating>0</rating>
+          <releasedate>20180929T000000</releasedate>
+          <developer>ggracia10</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>InitialD</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./klondike.gbc</path>
           <name>Klondike</name>
