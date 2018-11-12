@@ -5,6 +5,7 @@ Homebrew GBC games:
  - Brickster<br />
  - Burly Bear vs. The Mean Foxes<br />
  - Geometrix<br />
+ - InitialD<br />
  - Klondike<br />
  - uCity<br />
 
