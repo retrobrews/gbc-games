@@ -1,0 +1,15 @@
+InitialD - GameBoy Color (Initial_D.gbc - 128 kB)
+by ggracia10
+2018/09/29
+
+Takumi has to deliver Ramen! Take it from the restaurant and deliver it to the customers before times runs out!
+Beware of cyclists!
+
+Controls:
+
+Move: D-pad
+Pick and leave Ramen: A
+Change Song: Select
+
+
+https://ggracia10.itch.io/initiald-gameboy-color
