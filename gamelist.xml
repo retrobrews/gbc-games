@@ -37,6 +37,18 @@
           <players>1</players>
       </game>
         <game>
+          <path>./combatsoccer.gbc</path>
+          <name>Combat Soccer</name>
+          <desc>Combat Soccer is an intense game that somewhat looks like soccer. You control the top player. Your goal is to score 20 points against the bottom player. To assist you in your game, you are provided with a Rubber Rocket Gun. The Rockets can reflect the soccer ball in the other direction and temporarily make you opponent stop moving. Have Fun!</desc>
+          <image>./combatsoccer.png</image>
+          <rating>0</rating>
+          <releasedate>19991002T000000</releasedate>
+          <developer>Mike Kasprzak</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Combat Soccer</genre>
+          <players>1</players>
+      </game>
+        <game>
           <path>./geometrix.gbc</path>
           <name>Geometrix</name>
           <desc>This is a very simple puzzle game in which the objective is to create rows or columns of 3 or more of the same geometric form. Each row or column of 3 is worth 1 point, a line of 4 elements is considered to be 2 lines of 3 together, so it&apos;s worth 2 points, etc. If removing a line allows another one to be removed, the combo counter increases and the score of that removal is multiplied by it. The combo counter may increase up to 9. As soon as new geometric forms come into the screen from the top, or the chain stops, the combo counter will go back to 1.</desc>
@@ -70,6 +82,18 @@
           <developer>Harold Toler</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>Klondike</genre>
+          <players>1</players>
+      </game>
+        <game>
+          <path>./pokedamon.gbc</path>
+          <name>Poke Da Mon</name>
+          <desc>Poke Da Mon is an action packed game of poking (!?) for the Nintendo Gameboy and Gameboy Color console. Armed with a razor sharp poking stick, your goal is to poke the computer controlled opponent as many times as possible in under 99 seconds. This may sound simple, but your not the only one who has a stick. :) Controls are Simple: Use the pad to move your character around. To deploy the poking stick, press the A button. To Pause the game press the Start button.</desc>
+          <image>./pokedamon.png</image>
+          <rating>0</rating>
+          <releasedate>19991004T000000</releasedate>
+          <developer>Mike Kasprzak</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Poke Da Mon</genre>
           <players>1</players>
       </game>
        <game>
